@@ -1,12 +1,6 @@
 -- Database
 USE [SQL_Portfolio_Projects];
 
-/*
-Project name: 
-
-Dataset: (https://ourworldindata.org/covid-deaths)
-
-*/
 
 -- View all the attributes and the records 
 SELECT * FROM CovidDeaths;

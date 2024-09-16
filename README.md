@@ -1,2 +1,3 @@
-# Data_exploration_SQL
-Explored the datasets Covid deaths and Covid vaccinations using MS_SQL_SERVER
+Project name: Data exploration (covid deaths & covid vaccinations)
+
+Dataset: (https://ourworldindata.org/covid-deaths)
